@@ -1,5 +1,5 @@
 
-FROM        alpine:3.4
+FROM        alpine:3.6
 MAINTAINER  Artem Labazin <xxlabaza@gmail.com>
 
 ENV LANG=en_US.UTF-8 \
