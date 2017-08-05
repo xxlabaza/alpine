@@ -1,7 +1,8 @@
 
 # Supported tags and respective `Dockerfile` links
 
--	[`1.1`, `latest` (*1.1/Dockerfile*)](https://github.com/xxlabaza/alpine/blob/master/Dockerfile)
+-	[`3.6`, `latest` (*3.6/Dockerfile*)](https://github.com/xxlabaza/alpine/blob/master/Dockerfile)
+-	[`1.1` (*1.1/Dockerfile*)](https://github.com/xxlabaza/alpine/blob/4c4205550c4a9b004bc1c3ed85403e9f0a9f122c/Dockerfile)
 
 # How to use this image
 
