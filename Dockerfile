@@ -1,6 +1,6 @@
 
-FROM        alpine:3.6
-MAINTAINER  Artem Labazin <xxlabaza@gmail.com>
+FROM  alpine:3.7
+LABEL maintainer="Artem Labazin <xxlabaza@gmail.com>"
 
 ENV LANG=en_US.UTF-8 \
     LC_ALL=en_US.UTF-8 \
