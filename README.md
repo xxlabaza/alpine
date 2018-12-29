@@ -1,7 +1,8 @@
 
 # Supported tags and respective `Dockerfile` links
 
--	[`3.7`, `latest` (*3.7/Dockerfile*)](https://github.com/xxlabaza/alpine/blob/master/Dockerfile)
+-	[`3.8`, `latest` (*3.8/Dockerfile*)](https://github.com/xxlabaza/alpine/blob/master/Dockerfile)
+-	[`3.7` (*3.7/Dockerfile*)](https://github.com/xxlabaza/alpine/blob/8b985cf87eba2d4e381a37c69ede81df26aacfd6/Dockerfile)
 -	[`3.6` (*3.6/Dockerfile*)](https://github.com/xxlabaza/alpine/blob/31f34c435191ceb67c799d099d6d61598cb2785d/Dockerfile)
 -	[`1.1` (*1.1/Dockerfile*)](https://github.com/xxlabaza/alpine/blob/4c4205550c4a9b004bc1c3ed85403e9f0a9f122c/Dockerfile)
 
