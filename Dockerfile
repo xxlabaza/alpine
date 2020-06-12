@@ -1,5 +1,5 @@
 
-FROM  alpine:3.8
+FROM  alpine:3.12.0
 LABEL maintainer="Artem Labazin <xxlabaza@gmail.com>"
 
 ENV LANG=en_US.UTF-8 \
